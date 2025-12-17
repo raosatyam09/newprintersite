@@ -1,0 +1,6 @@
+
+User-agent: *
+# Block sensitive or backend folders
+
+# Allow all pages
+Allow: /
